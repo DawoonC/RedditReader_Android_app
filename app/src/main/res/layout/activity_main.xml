@@ -1,0 +1,9 @@
+<fragment xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/fragment_reddit"
+        android:name="com.example.dawoon.redditreader.RedditFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="com.example.dawoon.redditreader.RedditFragment"
+        tools:layout="@android:layout/list_content" />
+
